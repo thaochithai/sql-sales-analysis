@@ -1,4 +1,6 @@
 # 🚲 AdventureWorks SQL Analysis Project - Bicycle Sales
+![AdventureWork](https://img.shields.io/badge/SQL-Sales_Analysis-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## 📊 Project Overview  
 This project features SQL queries designed to analyze the AdventureWorks2019 dataset on **Google BigQuery**. The analysis focuses on key business areas including:
@@ -8,12 +10,8 @@ This project features SQL queries designed to analyze the AdventureWorks2019 dat
 - Customer retention  
 - Discount effectiveness  
 
----
-
 ## 🗃️ Dataset  
 **AdventureWorks** is a fictional bicycle manufacturing company dataset provided by Microsoft. This project uses the **2019 version** hosted on **Google BigQuery**.
-
----
 
 ## ❓ Business Questions & 💡 SQL Solutions
 
