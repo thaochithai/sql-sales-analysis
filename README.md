@@ -146,8 +146,3 @@ This SQL analysis offers actionable insights to drive business decisions:
 - 🧾 Optimize inventory with stock-to-sales and MoM stock trend tracking  
 - 🎯 Evaluate effectiveness of promotions like seasonal discounts  
 - 📍 Understand geographic sales performance to target high-performing territories  
-
-## 🛠️ Tools & Environment  
-- **Google BigQuery**  
-- **Standard SQL**  
-- **AdventureWorks2019 Dataset**
